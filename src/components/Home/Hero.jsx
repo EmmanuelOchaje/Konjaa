@@ -7,7 +7,7 @@ import desktop from "../../assets/images/desktop.png";
 
 const Hero = () => {
   return (
-    <div className="py-8 pt-14 px-4 lg:px-[6rem] md:flex">
+    <div className="py-8 px-4 lg:px-[6rem] md:flex">
       <div>
         <p className="bg-[#512da81a] rounded-lg text-[#8870c4] font-medium p-1 w-fit h-[30px] mb-2 text-[12px] md:text-[14px]">
           Konjaa - POS App
