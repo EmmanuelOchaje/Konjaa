@@ -41,9 +41,6 @@ const Footer = () => {
           <li className="mr-5 w-fit m- text-[12px] font-bold cursor-pointer">
             <Link to="/privacy">Privacy</Link>
           </li>
-          <li className="mr-5 w-fit m- text-[12px] font-bold cursor-pointer">
-            Partners
-          </li>
         </ul>
         <p className="text-center mt-5">
           © 2024 Copyrights by{" "}

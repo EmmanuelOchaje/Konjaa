@@ -40,9 +40,7 @@ const Navbar = () => {
           <li className="text-[#777777] text-[14px] md:text-[18px] mb-8 mr-8 font-normal">
             <Link to="/privacy">Privacy</Link>
           </li>
-          <li className="text-[#777777] text-[14px] md:text-[18px] mb-8 font-normal">
-            Partners
-          </li>
+
           <li className="text-black mb-5  font-semibold">
             <button className="bg-black text-white text-center w-[100%] p-2 rounded-full">
               Signup
@@ -73,7 +71,6 @@ const Navbar = () => {
             <li className=" cursor-pointer mr-8 font-semibold">
               <Link to="/privacy">Privacy</Link>
             </li>
-            <li className=" cursor-pointer mr- font-semibold">Partners</li>
           </ul>
           <span className="float-right lg:hidden mr-6 mt-4 md:mt-6 text-3xl md:text-5xl text-black">
             <i class="bx bx-menu" onClick={() => showMenu()}></i>
