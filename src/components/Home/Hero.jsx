@@ -9,15 +9,15 @@ const Hero = () => {
   return (
     <div className="py-8 pt-14 px-4 lg:px-[6rem] md:flex">
       <div>
-        <p className="bg-[#512da81a] rounded-lg text-[#8870c4] font-medium p-1 w-fit h-[30px] mb-2 text-[14px]">
+        <p className="bg-[#512da81a] rounded-lg text-[#8870c4] font-medium p-1 w-fit h-[30px] mb-2 text-[12px] md:text-[14px]">
           Konjaa - POS App
         </p>
         {/* <div className="bg-gray-300 rounded-lg p-2 w-[15%] text-[14px]"></div> */}
-        <h1 className="font-bold text-[30px] leading-[50px]">
+        <h1 className="font-bold text-2xl md:text-[30px] md:leading-[50px]">
           Manage{" "}
-          <span className="bg font-bold text-4xl">
+          <span className="bg font-bold text-2xl md:text-4xl">
             Your Stock, Sales,Cashflow{" "}
-          </span>{" "}
+          </span>
           while you are away.
         </h1>
         <p className="opacity-1 my-5 text-[15px] lg:w-[473px] lw-[433px] text-[#999999]">
@@ -29,12 +29,12 @@ const Hero = () => {
         <div className="sm:flex sm:justify-between m-auto">
           <img
             src={googlePlay}
-            className="cursor-pointer h-[69px] m-auto mb-5 sm:mb-0 w-[230px]"
+            className="cursor-pointer h-[50px] w-[180px] md:h-[69px] m-auto mb-5 sm:mb-0 md:w-[230px]"
             alt=""
           />
           <img
             src={appStore}
-            className="cursor-pointer h-[69px] m-auto sm:mr-[25%] w-[230px]"
+            className="cursor-pointer h-[50px] w-[180px] md:h-[69px] m-auto sm:mr-[25%] md:w-[230px]"
             alt=""
           />
         </div>

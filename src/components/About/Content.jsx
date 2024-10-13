@@ -7,7 +7,7 @@ const ContentAbout = (props) => {
   return (
     <div className="py-8 px-4 lg:px-[6rem]">
       <div>
-        <p className="bg-[#512da81a] mb-5 rounded-lg text-[#8870c4] font-medium p-1 w-fit h-fit text-[14px]">
+        <p className="bg-[#512da81a] text-[12px] mb-5 rounded-lg text-[#8870c4] font-medium p-1 w-fit h-fit md:text-[14px]">
           AboutUs Konjaa - POS App
         </p>
 

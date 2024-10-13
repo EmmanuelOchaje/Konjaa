@@ -8,12 +8,14 @@ const Potential = () => {
       </div>
 
       <div>
-        <p className="bg-[#512da81a] rounded-lg text-[#8870c4] font-medium p-1 w-fit h-[30px] mb-2 text-[14px]">
+        <p className="bg-[#512da81a] rounded-lg text-[#8870c4] font-medium p-1 w-fit h-[30px] mb-2 text-[12px] md:text-[14px]">
           Konjaa - Potential
         </p>
 
         <h2>
-          <span className="bg text-[40px] font-bold">Online Store</span>
+          <span className="bg text-2xl md:text-[40px] font-bold">
+            Online Store
+          </span>
         </h2>
         <p className="font-normal text-[15px] w-[] mr-2">
           When your business is listed with pointfy, we automatically generate a

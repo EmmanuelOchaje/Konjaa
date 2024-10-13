@@ -11,11 +11,13 @@ const Steps = (props) => {
   return (
     <div className="py-8 px-4 lg:px-[6rem] lg:flex lg:justify-between">
       <div className="lg:w-[50%]">
-        <p className="bg-[#512da81a] rounded-lg text-[#8870c4] font-medium p-1 w-fit h-[30px] mb-2 text-[14px]">
+        <p className="bg-[#512da81a] mb-2 rounded-lg text-[#8870c4] font-medium p-1 w-fit h-[30px] text-[12px] md:text-[14px]">
           Konjaa - Steps
         </p>
-        <h2>
-          <span className="bg text-[40px] font-bold">Get Started</span>
+        <h2 className="mb-2">
+          <span className="bg text-2xl md:text-[40px] font-bold">
+            Get Started
+          </span>
         </h2>
         <p className="font-normal text-[15px] w-fit mr-2">
           Stay focused on other things like family, businesses as pointify
