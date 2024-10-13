@@ -30,7 +30,7 @@ const Hero = () => {
         <div className="flex items-center">
           <img
             src={googlePlay}
-            className="cursor-pointer h-[50px] w-[180px] md:h-[69px] m- mb- sm:mb-0 md:w-[230px]"
+            className="cursor-pointer h-[50px] mr-2 w-[180px] md:h-[69px] m- mb- sm:mb-0 md:w-[230px]"
             alt=""
           />
           <img
