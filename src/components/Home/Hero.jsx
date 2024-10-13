@@ -45,8 +45,8 @@ const Hero = () => {
               <img src={apple} className="w-[50px] h-[50px]" alt="apple" />
               <span></span>
             </p>
-            <p className="w-[145px] text-[18px] font-medium text-[#505050] ml-2">
-              Download For macOS
+            <p className="w-fit text-[14px] md:text-[18px] font-medium text-[#505050] ml-2">
+              Download For <br /> macOS
             </p>
           </p>
 
@@ -58,8 +58,8 @@ const Hero = () => {
                 alt="windows"
               />
             </p>
-            <p className="w-[145px] text-[18px] font-medium text-[#505050] ml-2">
-              Download For Windows
+            <p className="w-fit text-[14px] md:text-[18px] font-medium text-[#505050] ml-2">
+              Download For <br /> Windows
             </p>
           </p>
         </div>
