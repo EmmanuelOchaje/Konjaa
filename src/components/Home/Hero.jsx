@@ -4,6 +4,7 @@ import windows from "../../assets/images/windows.png";
 import apple from "../../assets/images/apple.png";
 // import bg from "../assets/images/bg.jpg";
 import desktop from "../../assets/images/desktop.png";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
@@ -26,22 +27,26 @@ const Hero = () => {
           connection or no connection.
         </p>
 
-        <div className="sm:flex sm:justify-between m-auto">
+        <div className="flex items-center">
           <img
             src={googlePlay}
-            className="cursor-pointer h-[50px] w-[180px] md:h-[69px] m-auto mb-5 sm:mb-0 md:w-[230px]"
+            className="cursor-pointer h-[50px] w-[180px] md:h-[69px] m- mb- sm:mb-0 md:w-[230px]"
             alt=""
           />
           <img
             src={appStore}
-            className="cursor-pointer h-[50px] w-[180px] md:h-[69px] m-auto sm:mr-[25%] md:w-[230px]"
+            className="cursor-pointer h-[50px] w-[180px] md:h-[69px] md:w-[230px]"
             alt=""
           />
+          <div className="flex"></div>
         </div>
+        <button className="text-2xl rounded-lg font-medium text-white mt-10 flex bg-[#8870c4] p-2">
+          <Link to="">Get Started</Link>
+        </button>
 
-        <div className="sm:flex py-6 sm:py-16">
-          <p className="cursor-pointer flex justify-center mb-5 sm:mb-0 sm:ml-0 sm:mr-10">
-            <p className="bg-gray-300 rounded-full w-[50px] h-[50px] text-center">
+        {/* <div className="sm:flex p py-6 w-fit border sm:py-10">
+          <p className="cursor-pointer w-fit m-auto flex justify-center mb-5 sm:mb-0 sm:ml-0 mr-5 md:mr-16">
+            <p className="bg-gray-300 rounded-full w-fit h-[50px] text-center">
               <img src={apple} className="w-[50px] h-[50px]" alt="apple" />
               <span></span>
             </p>
@@ -50,7 +55,7 @@ const Hero = () => {
             </p>
           </p>
 
-          <p className="cursor-pointer m-auto justify-center sm:ml-0 flex">
+          <p className="cursor-pointer w-fit m-auto justify-center sm:ml-0 flex">
             <p className="bg-gray-300 rounded-full w-[45px] h-[45px] text-center">
               <img
                 src={windows}
@@ -62,7 +67,7 @@ const Hero = () => {
               Download For <br /> Windows
             </p>
           </p>
-        </div>
+        </div> */}
       </div>
 
       <div>

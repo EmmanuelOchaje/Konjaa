@@ -28,7 +28,7 @@ const Content = (props) => {
 
       <h3 className="mt-2 text-[20px] font-bold md:ml-3 py-2 md:py-5 text-[#8870c4]">
         {" "}
-        2. text-[20px]. How We Use Your Information
+        2. How We Use Your Information
       </h3>
       <p className="px-2 md:px-5 text-[16px] font-medium">
         {" "}

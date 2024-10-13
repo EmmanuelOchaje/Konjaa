@@ -54,7 +54,7 @@ const Navbar = () => {
       <div className="flex justify-between lg:pt-8 py-4 px-2 lg:px-[6rem] items-center">
         <img
           src={logo}
-          className="w-[150px] h-[40px] mt-4 md:mt-0 md:w-50 cursor-pointer md:h-12"
+          className="w-[150px] h-[35px] mt-4 md:mt-0 md:w-[250px] cursor-pointer md:h-[50px]"
           alt="Pontify"
         />
 
