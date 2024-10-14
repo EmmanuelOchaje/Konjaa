@@ -3,7 +3,7 @@ import React from "react";
 const Cashier = () => {
   return (
     <div className="mx-5 py-5">
-      <p className="bg-[#512da81a] rounded-lg text-[#512da8] font-medium p-1 w-fit text-[12px] md:text-2xl md:p-2 h-fit">
+      <p className="bg-[#512da81a] rounded-lg text-[#512da8] font-medium p-1 w-fit md:text-2xl md:p-2 h-fit">
         Cashier
       </p>
 
@@ -14,7 +14,7 @@ const Cashier = () => {
         to explore cashiers functionality
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Adding Cashier
       </p>
       <h3 className="font-bold">Steps</h3>
@@ -31,7 +31,7 @@ const Cashier = () => {
         click the “Update Changes” to complete action.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Edit Cashier
       </p>
 

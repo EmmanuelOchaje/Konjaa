@@ -9,7 +9,7 @@ const EditProfile = () => {
         To edit user profile, follow the following steps.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Adding Cashier
       </p>
       <h3 className="font-bold">Steps</h3>

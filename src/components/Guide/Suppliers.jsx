@@ -15,7 +15,7 @@ const Suppliers = () => {
         simple steps, follow the steps below to correctly manage your suppliers.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Add Suppliers
       </p>
 
@@ -31,7 +31,7 @@ const Suppliers = () => {
         “Save” to add supplier. Your supplier has been added successfully.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Managing Suppliers' Account
       </p>
 
@@ -55,7 +55,7 @@ const Suppliers = () => {
         call the supplier.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Managing Pending invoices
       </p>
 

@@ -3,7 +3,7 @@ import React from "react";
 const Sell = () => {
   return (
     <div className="mx-5 py-5">
-      <p className="bg-[#512da81a] mb-1 rounded-lg text-[#512d88] font-medium p-1 w-fit text-[12px] md:text-2xl md:p-2 h-fit">
+      <p className="bg-[#512da81a] mb-1 rounded-lg text-[#512d88] font-medium p-1 w-fit text-[20px] md:p-2 h-fit">
         Selling Products
       </p>
 

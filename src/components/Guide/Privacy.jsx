@@ -14,7 +14,7 @@ const Privacy = (props) => {
         Follow the steps below to create an account and get started
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Signing up
       </p>
       <h3 className="font-bold">Steps</h3>

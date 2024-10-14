@@ -4,11 +4,11 @@ const Stock = () => {
   return (
     <div>
       <div className="mx-5 py-5">
-        <p className="bg-[#512da81a]  rounded-lg text-[#512da8] font-medium p-1 w-fit text-[12px] md:text-2xl md:p-2 h-fit">
+        <p className="bg-[#512da81a]  rounded-lg text-[#512da8] font-medium p-1 w-fit text-2xl md:p-2 h-fit">
           Stock
         </p>
         {/* Add Product */}
-        <p className="my-2 rounded-lg text-[#512da8] font-bold md:text-[17px]  p-1 w-fit text-[12px] h-fit">
+        <p className="my-2 rounded-lg text-[#512da8] font-bold text-[20px]  p-1 w-fit h-fit">
           Adding Products to shop
         </p>
         <h3 className="font-bold">Steps</h3>
@@ -25,7 +25,7 @@ const Stock = () => {
         </p>
         {/* view and manipulate */}
 
-        <p className=" my-2 rounded-lg text-[#512da8] font-bold md:text-[17px] p-1 w-fit text-[12px] md:text-2xl h-fit">
+        <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px] h-fit">
           View and manipulate Stock
         </p>
         <h3 className="font-bold">Steps</h3>
@@ -42,7 +42,7 @@ const Stock = () => {
 
         {/*  Stocking-In An existing Product */}
 
-        <p className=" my-2 rounded-lg text-[#512da8] font-bold md:text-[17px] p-1 w-fit text-[12px] md:text-2xl h-fit">
+        <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px] h-fit">
           Stocking-In An existing Product
         </p>
         <h3 className="font-bold">Steps</h3>
@@ -75,7 +75,7 @@ const Stock = () => {
 
         {/*  Count */}
 
-        <p className=" my-2 rounded-lg text-[#512da8] font-bold md:text-[17px] p-1 w-fit text-[12px] md:text-2xl h-fit">
+        <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px] h-fit">
           Count
         </p>
         <h3 className="font-bold">Steps</h3>
@@ -90,7 +90,7 @@ const Stock = () => {
 
         {/*  Bad Stock */}
 
-        <p className=" my-2 rounded-lg text-[#512da8] font-bold md:text-[17px] p-1 w-fit text-[12px] md:text-2xl h-fit">
+        <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px] h-fit">
           Bad Stock
         </p>
         <h3 className="font-bold">Steps</h3>
@@ -106,7 +106,7 @@ const Stock = () => {
 
         {/*  Transfer Stock */}
 
-        <p className=" my-2 rounded-lg text-[#512da8] font-bold md:text-[17px] p-1 w-fit text-[12px] md:text-2xl h-fit">
+        <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px] h-fit">
           Transfer Stock
         </p>
         <h3 className="font-bold">Steps</h3>

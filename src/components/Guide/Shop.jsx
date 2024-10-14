@@ -3,7 +3,7 @@ import React from "react";
 const Shop = (props) => {
   return (
     <div className="mx-5 py-5">
-      <p className="bg-[#512da81a] rounded-lg text-[#512da8] font-medium p-1 w-fit text-[12px] md:text-2xl md:p-2 h-fit">
+      <p className="bg-[#512da81a] rounded-lg text-[#512da8] font-medium p-1 w-fit md:text-2xl md:p-2 h-fit">
         Shop
       </p>
 
@@ -14,7 +14,7 @@ const Shop = (props) => {
         and deleting shop.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Adding Shop
       </p>
       <h3 className="font-bold">Steps</h3>
@@ -30,7 +30,7 @@ const Shop = (props) => {
         and click the “Create” button. Your shop has been created successfully.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Edit Shop
       </p>
 

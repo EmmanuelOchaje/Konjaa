@@ -4,7 +4,7 @@ const GetStarted = () => {
   return (
     <div>
       <div className="mx-5">
-        <p className="bg-[#512da81a] rounded-lg text-[#512da8] font-bold p-1 w-fit text-[12px] md:text-2xl md:p-2 h-fit">
+        <p className="bg-[#512da81a] rounded-lg text-[#512da8] font-bold p-1 w-fit text-2xl md:p-2 h-fit">
           GET STARTED
         </p>
 
@@ -15,7 +15,7 @@ const GetStarted = () => {
           growth. Follow the steps below to create an account and get started
         </p>
 
-        <p className=" mb-2 rounded-lg text-[#512da8]  font-bold w-fit text-[12px] md:text-[17px] h-fit">
+        <p className=" mb-2 rounded-lg text-[#512da8]  font-bold w-fit text-[20px] h-fit">
           Sigining up
         </p>
 

@@ -12,7 +12,7 @@ const Finance = () => {
         and improve accountability. Follow the steps below to track financial
         operations.
       </p>
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-2xl h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[20px] h-fit">
         Tracking finances
       </p>
       <h3 className="font-bold">Steps</h3>
@@ -29,7 +29,7 @@ const Finance = () => {
       </p>
       {/* view and manipulate */}
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[12px] md:text-[17px]  h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px] h-fit">
         Profits
       </p>
       <h3 className="font-bold">Steps</h3>
@@ -51,7 +51,7 @@ const Finance = () => {
 
       {/*  Stocking-In An existing Product */}
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[12px] md:text-[17px]  h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px]  h-fit">
         Expenses
       </p>
       <h3 className="font-bold">Steps</h3>
@@ -71,7 +71,7 @@ const Finance = () => {
         functionality at the top of the screen
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[12px] md:text-[17px]  h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px]  h-fit">
         Sales
       </p>
       <h3 className="font-bold">Steps</h3>
@@ -91,7 +91,7 @@ const Finance = () => {
         name.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[12px] md:text-[17px]  h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold p-1 w-fit text-[20px]  h-fit">
         CashFlow Manager
       </p>
       <h3 className="font-bold">Steps</h3>

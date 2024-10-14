@@ -3,7 +3,7 @@ import React from "react";
 const Customers = () => {
   return (
     <div className="mx-5 py-5">
-      <p className="bg-[#512da81a] rounded-lg text-[#512da8] font-medium p-1 w-fit text-[12px] md:text-2xl md:p-2 h-fit">
+      <p className="bg-[#512da81a] rounded-lg text-[#512da8] font-medium p-1 w-fit md:text-2xl md:p-2 h-fit">
         Customers
       </p>
 
@@ -12,7 +12,7 @@ const Customers = () => {
         functionalities include adding customer, manage
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit md:text-[20px] h-fit">
         Adding Customers
       </p>
 
@@ -27,7 +27,7 @@ const Customers = () => {
         3. Fill in all details and click the “Save” button to add customer.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit md:text-[20px] h-fit">
         Managing Customers' Account
       </p>
 
@@ -50,7 +50,7 @@ const Customers = () => {
         4. Click “Pay Now” to update payment status to the customer.
       </p>
 
-      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit text-[12px] md:text-[17px] h-fit">
+      <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit md:text-[20px] h-fit">
         Customers Wallet
       </p>
 
