@@ -22,7 +22,7 @@ const Hero = () => {
           while you are away.
         </h1>
         <p className="opacity-1 my-5 text-[15px] lg:w-[473px] lw-[433px] text-[#999999]">
-          Pointify is a mobile and desktop version pos system, it works both
+          Konjaa is a mobile and desktop version pos system, it works both
           online and offline, creating a sync of data when there is internet
           connection or no connection.
         </p>

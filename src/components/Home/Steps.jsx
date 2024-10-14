@@ -20,8 +20,8 @@ const Steps = (props) => {
           </span>
         </h2>
         <p className="font-normal text-[15px] w-fit mr-2">
-          Stay focused on other things like family, businesses as pointify
-          manages your shop, hardware. hotels, clubs etc.
+          Stay focused on other things like family, businesses as konjaa manages
+          your shop, hardware. hotels, clubs etc.
         </p>
 
         <div className="mt-5">

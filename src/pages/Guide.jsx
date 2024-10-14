@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import Body from "../components/Guide/Body";
+import Content from "../components/Guide/Content";
 
 const Guide = (props) => {
   return (
     <div>
       <Navbar />
-      <Body />
+      <Content />
       <Footer />
     </div>
   );

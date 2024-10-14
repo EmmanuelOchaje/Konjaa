@@ -18,7 +18,7 @@ const Potential = () => {
           </span>
         </h2>
         <p className="font-normal text-[15px] w-[] mr-2">
-          When your business is listed with pointfy, we automatically generate a
+          When your business is listed with Konjaa, we automatically generate a
           landing page for your website and you can start receiving online
           orders/sales.
         </p>
