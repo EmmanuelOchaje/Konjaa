@@ -1,6 +1,10 @@
 import googlePlay from "../assets/images/gg.png";
 import appStore from "../assets/images/apple-app-store-logo.jpg";
 import { Link } from "react-router-dom";
+// import windows from "../../assets/images/windows.png";
+// import apple from "../../assets/images/apple.png";
+import apple from "../assets/images/apple.png";
+import windows from "../assets/images/windows.png";
 
 const Footer = () => {
   return (
@@ -18,7 +22,7 @@ const Footer = () => {
         <div className="md:flex justify-center items-center m-auto">
           <img
             src={googlePlay}
-            className="cursor-pointer m-auto my-5 sm:my-0 h-[50px] w-[180px] md:h-[69px] md:m-8 md:w-[230px]"
+            className="cursor-pointer m-auto my-5 smmy-0 h-[50px] w-[180px] md:h-[69px] md:m-8 md:w-[230px]"
             alt=""
           />
           <img
@@ -60,6 +64,31 @@ const Footer = () => {
             +234907 071 7710
           </span>
         </p>
+
+        <div className="sm:flex justify-center my-6 m-auto w-fit sm:py-10">
+          <p className="cursor-pointer w-fit m-auto flex justify-center mb-5 sm:mb-0 sm:ml-0 mr-5 md:mr-5">
+            <p className="bg-gray-300 rounded-full w-fit h-[50px] text-center">
+              <img src={apple} className="w-[50px] h-[50px]" alt="apple" />
+              <span></span>
+            </p>
+            <p className="w-fit text-[13px] md:text-[18px] font-medium text-[#505050] ml-2">
+              Download For <br /> macOS
+            </p>
+          </p>
+
+          <p className="cursor-pointer w-fit m-auto justify-center sm:ml-0 flex">
+            <p className="bg-gray-300 rounded-full w-[45px] h-[45px] text-center">
+              <img
+                src={windows}
+                className="w-[40p] m-auto h-[40px]"
+                alt="windows"
+              />
+            </p>
+            <p className="w-fit text-[13px] md:text-[18px] font-medium text-[#505050] ml-2">
+              Download For <br /> Windows
+            </p>
+          </p>
+        </div>
       </div>
     </div>
   );

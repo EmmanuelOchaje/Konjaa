@@ -1,7 +1,6 @@
 import googlePlay from "../../assets/images/gg.png";
 import appStore from "../../assets/images/apple-app-store-logo.jpg";
-import windows from "../../assets/images/windows.png";
-import apple from "../../assets/images/apple.png";
+
 // import bg from "../assets/images/bg.jpg";
 import desktop from "../../assets/images/desktop.png";
 import { Link } from "react-router-dom";
