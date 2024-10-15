@@ -67,7 +67,11 @@ const Footer = () => {
           </span>
         </p>
 
-        <div className="flex justify-center my-6 m-auto w-fit sm:py-10">
+        <p className="text-center mt-5">
+          Download Our Desktop App
+          <span className="cursor-pointer font-semibold text-[#8870c4]"></span>
+        </p>
+        <div className="flex justify-center m-auto w-fit sm:py-10">
           <p className="cursor-pointer w-fit m-auto flex justify-center sm:ml-0 mr-5 md:mr-5">
             <p className="bg-gray-300 rounded-full w-fit h-[50px] text-center">
               <img src={apple} className="w-[50px] h-[50px]" alt="apple" />
