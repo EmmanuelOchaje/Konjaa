@@ -49,6 +49,17 @@ const Footer = () => {
           </span>{" "}
           All Rights Reserved. Owned By Gimo Internet Tech
         </p>
+
+        <p className="text-center mt-5">
+          Contact Us {""}
+          <span className="cursor-pointer font-semibold text-[#8870c4]">
+            info@konjaa.com
+          </span>
+          {" ,"}
+          <span className="cursor-pointer font-semibold text-[#8870c4]">
+            +234907 071 7710
+          </span>
+        </p>
       </div>
     </div>
   );

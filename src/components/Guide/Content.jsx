@@ -13,6 +13,9 @@ import Privacy from "./Privacy";
 const Content = (props) => {
   return (
     <div className="py-8 px-4 lg:px-[6rem]">
+      <p className=" rounded-lg md:text-3xl bg ml-2 md:ml-5 mb-5 font-bold p-1 w-fit text-2xl md:p-2 h-fit">
+        GUIDE
+      </p>
       <GetStarted />
       <Stock />
       <Sell />

@@ -7,6 +7,7 @@ const Guide = (props) => {
   return (
     <div>
       <Navbar />
+
       <Content />
       <Footer />
     </div>
