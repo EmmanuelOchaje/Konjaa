@@ -8,7 +8,7 @@ const Shop = (props) => {
       </p>
 
       <p className="text-black py-5 leading-6">
-        Pointify allows users to have more than one shop – this enables you to
+        Konjaa allows users to have more than one shop – this enables you to
         manage every shop individually. This section will explore shop
         functionality including creating several shops, editing shop details,
         and deleting shop.

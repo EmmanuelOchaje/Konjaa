@@ -4,13 +4,13 @@ const names = [
   {
     name: "John M.",
     occupation: "Bantu Auto Spares.",
-    comment: "I have 12 branches and i manage all with pointify, Kudos men!.",
+    comment: "I have 12 branches and i manage all with Konjaa, Kudos men!.",
   },
   {
     name: "Fred K",
     occupation: "Watu Wholesalers.",
     comment:
-      "I love using pointify, i get all my data backups every day in an excel format.",
+      "I love using Konjaa, i get all my data backups every day in an excel format.",
   },
   {
     name: "Alive Gu. ",
@@ -24,14 +24,14 @@ const Testimoials = () => {
     <div className="py-8 px-[6rem] flex justify-between">
       <div>
         <p className="bg-[#512da81a] rounded-lg text-[#8870c4] font-medium p-1 w-fit h-[30px] mb-2 text-[14px]">
-          Pointify - Testimonoials
+          Konjaa - Testimonoials
         </p>
 
         <h2>
           <span className="bg text-[40px] font-bold">Love From Customers</span>
         </h2>
         <p className="font-normal text-[15px] w-[] mr-2">
-          Pointify has received love from a wide range of customers
+          Konjaa has received love from a wide range of customers
         </p>
 
         <div className="mt-5 flex justify-between">
@@ -101,7 +101,7 @@ export default Testimoials;
             </span>{" "}
           </div>
           <p>
-            “I have 12 branches and i manage all with pointify, Kudos men!.”
+            “I have 12 branches and i manage all with Konjaa, Kudos men!.”
           </p>
           <p className="text-gray-500 pt-6 text-[12px]">
             <span className="text-black pt-6 text-[12px]">John M.</span>/ Bantu

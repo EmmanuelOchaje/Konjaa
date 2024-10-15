@@ -8,7 +8,7 @@ const Finance = () => {
       <p className="text-black/80 py-5 leading-6">
         Finance is at the core for business operation, it enables the management
         to track the growth of a business, and make appropriate decisions –
-        well, Pointify give you an option to effectively track financial records
+        well, Konjaa give you an option to effectively track financial records
         and improve accountability. Follow the steps below to track financial
         operations.
       </p>
