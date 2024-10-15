@@ -39,9 +39,14 @@ const Hero = () => {
           />
           <div className="flex"></div>
         </div>
-        <button className="text-2xl rounded-lg font-medium text-white mt-10 flex bg-[#8870c4] p-2">
-          <Link to="">Get Started</Link>
-        </button>
+        <div className="flex py-5">
+          <button className="text-2xl rounded-lg mx-2 font-medium text-white flex bg-[#8870c4] p-2">
+            <Link to="">Register</Link>
+          </button>
+          <button className="text-2xl rounded-lg font-medium text-white flex bg-[#8870c4] p-2">
+            <Link to="">Sign In</Link>
+          </button>
+        </div>
 
         {/* <div className="sm:flex p py-6 w-fit border sm:py-10">
           <p className="cursor-pointer w-fit m-auto flex justify-center mb-5 sm:mb-0 sm:ml-0 mr-5 md:mr-16">

@@ -19,17 +19,19 @@ const Footer = () => {
           To get the mobile application, click on the buttons below
         </p>
 
-        <div className="md:flex justify-center items-center m-auto">
-          <img
-            src={googlePlay}
-            className="cursor-pointer m-auto my-5 smmy-0 h-[50px] w-[180px] md:h-[69px] md:m-8 md:w-[230px]"
-            alt=""
-          />
-          <img
-            src={appStore}
-            className="cursor-pointer m-auto h-[50px] w-[180px] md:h-[69px] md:m-8 md:w-[230px]"
-            alt=""
-          />
+        <div className="flex justify-center items-center m-auto">
+          <div className="flex">
+            <img
+              src={googlePlay}
+              className="cursor-pointer m-auto my-5 smmy-0 h-[50px] w-[160px] md:h-[69px] md:m-8 md:w-[230px]"
+              alt=""
+            />
+            <img
+              src={appStore}
+              className="cursor-pointer m-auto h-[50px] w-[160px] md:h-[69px] md:m-8 md:w-[230px]"
+              alt=""
+            />
+          </div>
         </div>
 
         <ul className="flex justify-center mt-5">
@@ -65,8 +67,8 @@ const Footer = () => {
           </span>
         </p>
 
-        <div className="sm:flex justify-center my-6 m-auto w-fit sm:py-10">
-          <p className="cursor-pointer w-fit m-auto flex justify-center mb-5 sm:mb-0 sm:ml-0 mr-5 md:mr-5">
+        <div className="flex justify-center my-6 m-auto w-fit sm:py-10">
+          <p className="cursor-pointer w-fit m-auto flex justify-center sm:ml-0 mr-5 md:mr-5">
             <p className="bg-gray-300 rounded-full w-fit h-[50px] text-center">
               <img src={apple} className="w-[50px] h-[50px]" alt="apple" />
               <span></span>

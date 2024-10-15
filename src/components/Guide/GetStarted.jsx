@@ -25,7 +25,7 @@ const GetStarted = () => {
           our mobile app – Konjaa.
         </p>
         <p className="text-black/100 w-[] pb-1 leading-6">
-          b-1. To get started with a new account, click “BUSINESS OWNER”.
+          2. To get started with a new account, click “BUSINESS OWNER”.
         </p>
         <p className="text-black/100 w-[] pb-1 leading-6">
           3. Click “Create” to create new account.

@@ -8,8 +8,8 @@ const Customers = () => {
       </p>
 
       <p className="text-black py-5 leading-6">
-        Pointify Gives you an option manage customers, some of the
-        functionalities include adding customer, manage
+        Konjaa Gives you an option manage customers, some of the functionalities
+        include adding customer, manage
       </p>
 
       <p className=" my-2 rounded-lg text-[#512da8] font-bold w-fit md:text-[20px] h-fit">

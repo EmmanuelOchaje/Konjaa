@@ -20,8 +20,7 @@ const Privacy = (props) => {
       <h3 className="font-bold">Steps</h3>
       <p className="text-black pb-1 leading-6">
         1. Head to play store for Android and App Store for IOS and download our
-        mobile app – Pointify. 6. All is complete, your account is ready to make
-        sales, and make the venture grow.
+        mobile app – Konjaa.
       </p>
       <p className="text-black pb-1 leading-6">
         2. To get started with a new account, click “Admin”.

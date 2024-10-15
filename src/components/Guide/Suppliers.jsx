@@ -10,8 +10,8 @@ const Suppliers = () => {
       <p className="text-black py-5 leading-6">
         Have you been struggling with managing your suppliers and having
         difficulty with tracking payment and stock purchasing history, well…
-        worry not more because Pointify brings the solution right at your figure
-        tips. With Pointify, it is possible to manage all your suppliers with
+        worry not more because Konjaa brings the solution right at your figure
+        tips. With Konjaa, it is possible to manage all your suppliers with
         simple steps, follow the steps below to correctly manage your suppliers.
       </p>
 
